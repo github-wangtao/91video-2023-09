@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name              91短视频
-// @homepage           http://wlzg.ltd/#/pages/my/exchange/nodes/nodes
+// @homepage          http://jsxl.pro
 // @version           1.5.1
 // @updateDesc        优化代码及logo脚本列表可复制最新脚本链接，不升级版本不影响使用
 // @description       🔥免费看短视频金币视频，会员视频
@@ -290,7 +290,7 @@ const superVip = (function () {
 		isMobile: navigator.userAgent.match(/(Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini)/i),
 		vipBoxId: 'wt-vip-jx-box' + Math.ceil(Math.random() * 100000000),
 		initFailMsg: '抱歉，初始化失败，请尝试刷新页面或检查版本是否是最新版本，点击控制条喇叭查看当前版本号',
-		homePage: 'http://wlzg.ltd/#/pages/my/exchange/nodes/nodes',
+		homePage: 'http://jsxl.pro',
 		endName: 'anM=',
 		scripts: [
 		// 	{
